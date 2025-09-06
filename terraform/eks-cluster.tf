@@ -14,7 +14,7 @@ module "eks" {
 
   }
 
-  # this is a te
+  # this is a 
 
   eks_managed_node_groups = {
     one = {
